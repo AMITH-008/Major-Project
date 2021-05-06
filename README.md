@@ -2,7 +2,7 @@
 This is the simple project to predict whether the movie review is positive ,neutral and negative represented by their respective Emoji's  
 
 # Data 
-For the data that is reviews is scraped using BeautifulSoup from the imdb website 'www.imdb.com' 
+For the data that is reviews is scraped using BeautifulSoup from the imdb website 'www.imdb.com' .
 
 # Deployment of web app in Heroku
 Refer the below article for deployment on Heroku
